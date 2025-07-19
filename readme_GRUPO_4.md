@@ -5,7 +5,7 @@ Elegimos Nikto porque es una herramienta muy conocida y confiable para encontrar
 **Comentario Jonathan_Briceño**
 Además, es un proyecto de código abierto con una comunidad activa que siempre está actualizando y mejorando la base de datos de vulnerabilidades, lo que la hace muy útil para mantener la seguridad actualizada frente a nuevas amenazas.
 
-**Comentario V3**
+**Comentario V4**
 También nos pareció importante que Nikto esté respaldado por referencias confiables como OWASP y libros reconocidos en ciberseguridad, porque eso asegura que es una herramienta validada profesionalmente y con un buen fundamento tecnico.
 
 ## Repositorio escogido
