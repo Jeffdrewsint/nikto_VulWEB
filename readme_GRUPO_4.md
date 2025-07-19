@@ -1,6 +1,8 @@
 # Grupo 4 – Análisis del Repositorio Nikto
 
 Elegimos Nikto porque es una herramienta muy conocida y confiable para encontrar vulnerabilidades en servidores web. Es muy usada por expertos en seguridad para hacer pruebas rápidas y efectivas, ya que revisa muchísimos posibles problemas, desde configuraciones inseguras hasta archivos peligrosos o software desactualizado.
+
+**Comentario Jonathan_Briceño**
 Además, es un proyecto de código abierto con una comunidad activa que siempre está actualizando y mejorando la base de datos de vulnerabilidades, lo que la hace muy útil para mantener la seguridad actualizada frente a nuevas amenazas.
 También nos pareció importante que Nikto esté respaldado por referencias confiables como OWASP y libros reconocidos en ciberseguridad, porque eso asegura que es una herramienta validada profesionalmente y con un buen fundamento técnico.
 
@@ -39,4 +41,4 @@ Referencias adicionales:
 **- CVE Details, https://www.cvedetails.com/product/59872/Nikto-Nikto.html**
 
 
-** PRUEBA **
+
