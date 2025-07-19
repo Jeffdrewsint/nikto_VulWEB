@@ -10,6 +10,9 @@ También nos pareció importante que Nikto esté respaldado por referencias conf
 
 Nikto es una herramienta de escaneo de vulnerabilidades para servidores web que realiza pruebas automatizadas contra más de 6700 archivos y programas potencialmente peligrosos, configuraciones erróneas y vulnerabilidades conocidas. Es ampliamente utilizada en auditorías de seguridad y pruebas de penetración (pentesting).
 
+Ademas, Nikto no se enfoca en ataques de explotación, sino en descubrimiento y evaluación rápida de superficie de ataque, siendo una herramienta ideal para etapas tempranas del proceso de **pentesting (reconocimiento y enumeración)**.
+
+
 ## Utilidad del repositorio
 
 Nikto permite a los especialistas en seguridad identificar rápidamente vulnerabilidades comunes en aplicaciones web y servidores, incluyendo configuraciones inseguras, software obsoleto, y fallas conocidas reportadas en bases como CVE (Common Vulnerabilities and Exposures). Su funcionamiento basado en firmas y pruebas activas lo hacen una herramienta esencial en la fase de reconocimiento y evaluación de seguridad.
